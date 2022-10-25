@@ -1,4 +1,4 @@
-module github.com/inster/storage
+module github.com/JohnLoStark/storage
 
 go 1.18
 

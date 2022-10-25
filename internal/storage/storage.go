@@ -3,8 +3,8 @@ package storage
 import (
 	"fmt"
 
+	"github.com/JohnLoStark/storage/internal/file"
 	"github.com/google/uuid"
-	"github.com/inster/storage/internal/file"
 )
 
 type Storage struct {
